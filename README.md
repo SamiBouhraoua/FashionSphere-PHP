@@ -75,7 +75,7 @@ git clone https://github.com/your-username/fashionsphere.git
 
 4. **Launch the application:**
    - Start Apache and MySQL from XAMPP
-   - Visit: `http://localhost/fashionsphere1-php/projetfinale/home.php`
+   - Visit: `http://localhost/fashionsphere-php/fashionsphere/home.php`
 
 ---
 
