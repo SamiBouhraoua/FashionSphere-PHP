@@ -1,18 +1,18 @@
-# 🛍️ FashionSphere
+#  FashionSphere
 
 FashionSphere is a web-based e-commerce application developed in **PHP** and **MySQL**, designed to manage a fashion store online. The project features a public interface for customers and a secure admin dashboard to manage products and users. It was built as part of a web development academic project.
 
 ---
 
-## 📸 Project Overview
+##  Project Overview
 
 This platform allows users to browse fashion items (accessories, clothing, etc.), view product details, create an account, and add items to their shopping cart. Admins have full control over the product catalog and user management through a dedicated back-office interface.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 User (Customer)
+###  User (Customer)
 - User registration and login
 - Browse available products
 - View detailed product information
@@ -20,7 +20,7 @@ This platform allows users to browse fashion items (accessories, clothing, etc.)
 - Remove products from cart
 - Access personal user space
 
-### 🔐 Admin
+###  Admin
 - Secure login system
 - Add, edit, and delete products
 - Manage users (add, update, delete)
@@ -29,7 +29,7 @@ This platform allows users to browse fashion items (accessories, clothing, etc.)
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 fashionsphere1-php/
@@ -48,7 +48,7 @@ fashionsphere1-php/
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 - **Languages:** PHP, HTML5, CSS3
 - **Database:** MySQL
@@ -57,7 +57,7 @@ fashionsphere1-php/
 
 ---
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 1. **Clone the repository:**
 ```bash
@@ -79,7 +79,7 @@ git clone https://github.com/your-username/fashionsphere.git
 
 ---
 
-## 🔐 Default Admin Login
+##  Default Admin Login
 
 - **Username:** admin  
 - **Password:** admin  
@@ -87,7 +87,7 @@ git clone https://github.com/your-username/fashionsphere.git
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 - **Name:** Bouhraoua sami 
 - **Email:** samibouhraoua5@gmail.com  
@@ -96,7 +96,7 @@ git clone https://github.com/your-username/fashionsphere.git
 
 ---
 
-## 📄 License
+##  License
 
 This project is released under the **MIT License**.  
 You are free to use, modify, and distribute it for personal or educational purposes.
